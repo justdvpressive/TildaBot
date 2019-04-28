@@ -57,7 +57,7 @@ public class InfoCommand extends Command {
         else{
             m += vers;
         }
-            m += "\n**Tilda Bot Github:** https://github.com/AndyThio/TildaBot";
+            m += "\n**Tilda Bot Creator**: Aimi#0625";
         sendMessage(e,m);
     }
 
