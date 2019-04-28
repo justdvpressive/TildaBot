@@ -29,7 +29,7 @@ import static java.nio.file.StandardOpenOption.CREATE_NEW;
 
 public class Tilda extends ListenerAdapter{
 
-    private static String token = "NTcxNDY4OTI4MTkxMTY4NTEz.XMS_Mw.L_199C99W5jyAFSHEFPItowYl-4";
+    private static String token = "";
     private static  AmazonDynamoDB awsDB;
 
     //Edit this to change location where the token is stored
